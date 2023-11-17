@@ -51,7 +51,7 @@ export default function Home() {
       <Skills />
       <div className="bg-gradient-to-r from-gray-800  to-gray-900 py-5">
         <h1 className="text-center text-2xl uppercase mb-8">projects </h1>
-        <div className="project-con">
+        <div className="project-con px-4">
           {ProjectCardData.map((val, ind) => {
             return <WorkCard key={ind} val={val} />;
           })}

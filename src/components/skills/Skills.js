@@ -7,7 +7,7 @@ const Skills = () => {
       <div className="mb-5">
         <h1 className="text-center text-2xl uppercase">Skills</h1>
       </div>
-      <div className="grid-con grid grid-cols-1 md:grid-cols-3 gap-4  h-auto md:h-96 bg-black p-8 md:w-4/5 mx-auto">
+      <div className="grid-con grid grid-cols-1 lg:grid-cols-3 gap-4  h-auto lg:h-96 bg-black p-8 lg:w-4/5 mx-auto">
         <div className="  p-5 h-70 bg-sky-300 ">
           <h1 className="text-center text-xl"> Frontend</h1>
           <ul className="ml-6 mt-2 text-lg">
@@ -35,8 +35,8 @@ const Skills = () => {
             <li>MongoDb</li>
           </ul>
         </div>
-        <p className="col-start-1 col-end-3"> * are yet to be Completed</p>
       </div>
+      <p className="text-center">* courses are yet to be completed</p>
     </div>
   );
 };
