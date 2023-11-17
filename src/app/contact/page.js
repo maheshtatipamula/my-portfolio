@@ -8,7 +8,7 @@ const Contact = () => {
       <Navbar />
       <div className="contact-con  bg-gradient-to-r from-gray-800  to-gray-900">
         <div>
-          <p className="text-2xl">mahesh.tatipamula43@gmail.com</p>
+          <p className=" text-lg lg:text-2xl">mahesh.tatipamula43@gmail.com</p>
           <div className="flex justify-around mt-5">
             <a
               href="https://www.linkedin.com/in/mahesh-tatipamula-87900922a/"
