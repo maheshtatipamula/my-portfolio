@@ -17,9 +17,9 @@ export default function Home() {
         style={{ height: "80vh" }}
       >
         <div className="flex  flex-col items-center justify-center gap-0 order-2 md:order-1">
-          <h1 className="text-md  lg:text-5xl mb-1 md:mb-2">hey I'M MAHESH</h1>
+          <h1 className="text-md  lg:text-5xl mb-1 md:mb-2">hey I AM MAHESH</h1>
           <h3 className="text-md  lg:text-4xl mb-1 md:mb-2">
-            I'M MERN STACK DEVELOPER
+            I AM MERN STACK DEVELOPER
           </h3>
 
           <div className="m-5">
