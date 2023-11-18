@@ -9,7 +9,6 @@ const About = () => {
       <Navbar />
       <TimeLine />
       <Skills />
-      <h1>hhh</h1>
     </>
   );
 };
