@@ -20,7 +20,7 @@ const Footer = () => {
         </div>{" "}
         <div className="flex gap-2">
           <FaPhone size={20} style={{ color: "#fff" }} />
-          <p> 701****531</p>
+          <p> 7013848531</p>
         </div>{" "}
         <div className="flex gap-2">
           <FaMailBulk size={20} style={{ color: "#fff" }} />
