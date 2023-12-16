@@ -40,6 +40,7 @@ const ProjectCardData = [
     ],
     view: "https://ecom-backend-maheshtatipamula.vercel.app",
     github: "https://github.com/maheshtatipamula/Ecom_backend",
+    postman: "https://documenter.getpostman.com/view/27009787/2s9Ykn8ghc",
   },
   {
     id: 3,

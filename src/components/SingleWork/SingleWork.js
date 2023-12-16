@@ -58,6 +58,14 @@ const SingleWork = (props) => {
             </a>
           </p>
         )}
+        {project?.postman && (
+          <p className="single-p">
+            <strong> DOCUMENT : </strong>
+            <a href={project?.postman} target="_blank">
+              click here to view postman documentation
+            </a>
+          </p>
+        )}
         <div className="single-pro-details">
           <div className="single-pro-btns">
             <Link href="/projects" className="btn">
